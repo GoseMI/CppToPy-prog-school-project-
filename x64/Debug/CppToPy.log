@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\Asrock\Documents\programing projects\CppToPy\CppToPy\utils.h(7,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Asrock\Documents\programing projects\CppToPy\CppToPy\utils.h(36,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Asrock\Documents\programing projects\CppToPy\CppToPy\Translator.h(97,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asrock\Documents\programing projects\CppToPy\CppToPy\MyForm.cpp(7,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CppToPy.vcxproj -> C:\Users\Asrock\Documents\programing projects\CppToPy\x64\Debug\CppToPy.exe
